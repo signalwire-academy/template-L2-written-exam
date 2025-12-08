@@ -28,7 +28,7 @@ jobs:
           passing-score: 80
           show-answers-on-pass: true
           close-on-pass: true
-          next-assignment: https://classroom.github.com/a/pW8dxCLE
+          next-assignment: https://classroom.github.com/a/zbinSMy6
 
       - name: Notify progress tracker
         if: always() && steps.grade.outputs.passed != ''

@@ -30,7 +30,11 @@ Multiple choice answers are auto-graded. Short answer questions are reviewed man
 
 ## After Passing
 
-Once you pass this written exam, you can proceed to the Level 2 Practical Exam.
+Once you pass this written exam, proceed to the practical exam.
+
+## Next Assignment
+
+Ready to continue? [**Start Level 2 Practical Exam**](https://classroom.github.com/a/zbinSMy6)
 
 ---
 
